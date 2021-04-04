@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bulk SMS</string>
+    <string name="search_text">Rechercher</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="connexion_label">Connexion</string>
+    <string name="envoyer_un_sms">Envoyer un sms</string>
+    <string name="acceder_base_donnees">Accéder à la base de données</string>
+    <string name="api_key_shared_pref">API_KEY_SHARED_PREF</string>
+</resources>
